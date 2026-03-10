@@ -73,7 +73,7 @@ Cohort analysis tracked customers by their first purchase month to understand ho
 
 **Cohort longevity:**
 - Early cohorts (December 2009) show sustained engagement across 20+ months — evidence that long-term loyalty is achievable.
-- Revenue heatmaps show the earliest cohorts generating darker revenue concentrations, reflecting disproportionate long-term value from early acquistions.
+- Revenue heatmaps show the earliest cohorts generating darker revenue concentrations, reflecting disproportionate long-term value from early acquisitions.
 
 ---
 
@@ -145,21 +145,21 @@ Champion conversion tracks how many customers from each cohort eventually reach 
 ### Visualizations
 
 **Revenue Trends**
-![Revenue Trends](Screenshots/revenue_trends.png)
+![Revenue Trends](screenshots/revenue_trends.png)
 
 **RFM Revenue Contribution**
-![RFM Revenue Contribution](Screenshots/rfm_revenue_contribution.png)
+![RFM Revenue Contribution](screenshots/rfm_revenue_contribution.png)
 
 **Customer Retention Heatmap**
-![Customer Retention Heatmap](Screenshots/customer_retention_heatmap.png)
+![Customer Retention Heatmap](screenshots/customer_retention_heatmap.png)
 
 **Revenue Retention Heatmap**
-![Revenue Retention Heatmap](Screenshots/revenue_retention_heatmap.png)
+![Revenue Retention Heatmap](screenshots/revenue_retention_heatmap.png)
 
 ### SQL Queries
 
 **Retention Logic**
-![SQL Retention Logic](Screenshots/sql_retention_logic.png)
+![SQL Retention Logic](screenshots/sql_retention_logic.png)
 
 **Champion Conversion**
-![SQL Champion Conversion](Screenshots/sql_champion_conversion.png)
+![SQL Champion Conversion](screenshots/sql_champion_conversion.png)
