@@ -95,7 +95,7 @@ KPI cards dynamically respond to Card Type and Transaction Type selections.
 
 ## Files Included
 - `screenshots/` — Dashboard preview images  
-- PBIX File: [Download here](https://drive.google.com/file/d/1x7qqMFZzxFh84mV8_W4GOmnB9DRVPFxs/view) *(hosted externally due to file size constraints)*  
+- PBIX File: [Download here](https://drive.google.com/file/d/1DLabMP87t7pboL9-3pTu7sUN4bStN5mv/view) *(hosted externally due to file size constraints)*  
 
 ---
 
