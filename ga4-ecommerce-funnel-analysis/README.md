@@ -31,8 +31,9 @@ search and promotion engagement.
 
 ## Key Findings at a Glance
 
-- Overall conversion is **1.65%**, with the sharpest single drop-off
-  (**41%**) happening at the payment step, not earlier in the funnel
+- Overall conversion is **1.65%**, with the biggest traffic loss (79%) 
+  happening at view_item → add_to_cart, and the sharpest checkout 
+  friction (**41%**) at the payment step
 - **Returning visitors convert at 6.7x the rate of new visitors**
   (9.37% vs 1.39%) — by far the strongest segmentation signal in the
   dataset; device and geography make almost no difference
@@ -63,8 +64,9 @@ shipping → add payment → purchase.
 - Overall conversion rate is **1.65%** — 98.35% of visitors never purchase
 - **79% drop-off** between viewing an item and adding it to cart — high
   browse, low intent traffic
-- **41% drop-off at the payment step**, despite near-zero drop-off at
-  shipping — the sharpest single-step friction point in the funnel
+- **41% drop-off at the payment step**, the sharpest drop within 
+the checkout flow, despite users having already committed 
+shipping information
 
 **Segmented funnel**
 
